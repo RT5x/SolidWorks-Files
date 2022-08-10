@@ -8,14 +8,14 @@ Concise and clear (4 minutes) with exact screenshots of what you'll see.
 
 Step 1 - Visit https://www.solidworks.com/SEK
 
-Enter the Cal Poly SEK-ID: XSEK12
+Enter the SEK-ID: *****
 
-Enter the Cal Poly SEK serial number
+Enter the SEK serial number
 for Solidworks Student Premium:
 9020005336412807RCHYNZ27
 
 Select/enter other relevant info required.
-NOTE: a valid "calpoly.edu" email address is required.
+NOTE: a valid  email address is required.
 
 Step 2 - Download the Solidworks installation manager (approx. 20 MB).
 This is required to download the Solidworks installation files (approx. 15 GB).
