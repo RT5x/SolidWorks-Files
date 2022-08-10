@@ -1,0 +1,57 @@
+Preparation
+
+Review the Solidworks 2022-2023 Student Edition installation process.
+Video --> https://youtu.be/3A0-TMZu_NA?t=8
+
+Concise and clear (4 minutes) with exact screenshots of what you'll see.
+
+
+Step 1 - Visit https://www.solidworks.com/SEK
+
+Enter the Cal Poly SEK-ID: XSEK12
+
+Enter the Cal Poly SEK serial number
+for Solidworks Student Premium:
+9020005336412807RCHYNZ27
+
+Select/enter other relevant info required.
+NOTE: a valid "calpoly.edu" email address is required.
+
+Step 2 - Download the Solidworks installation manager (approx. 20 MB).
+This is required to download the Solidworks installation files (approx. 15 GB).
+
+Accept the license agreement (64-bit Windows).
+
+Be sure to note the directory where you saved this file.
+(called "SolidworksSetup.exe")
+
+Step 3 - To avoid corrupting the Solidworks Installation Manager
+it's recommended you install the 7-zip utility.
+
+Download at --> https://www.7-zip.org/download.html
+
+Step 4 - When 7-zip is installed, "right-click" on "SolidworksSetup.exe"
+to unzip (expand) the Solidworks installation files.
+
+Continue with the Solidworks Installation Manager.
+- Specify the type of installation: Select "Install on this computer".
+Click "Next".
+
+Select the Solidworks components to install
+(e.g., 3D Design, Visualization, Simulation, CAM).
+
+NOTE: do NOT select "Electrical" (make sure this is de-selected on ALL installation screens).
+Solidworks Electrical is generally not needed and requires Microsoft SQL Server as an prerequisite.
+
+Step 5 - Start Solidworks Student Edition.
+
+The Solidworks "Activation Manager" will appear.
+Select activate "Automatically over the Internet (recommended)".
+
+Once activated, click "Finish".
+
+
+The 2022 version will expire July 31, 2024.
+
+This license is for personal computers only,
+not labs or school computers.
