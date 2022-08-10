@@ -1,0 +1,20 @@
+SolidWorks is a 3D mechanical CAD (computer-aided design) program that runs on Microsoft Windows and was developed by Dassault Systèmes SolidWorks Corp., a subsidiary of Dassault Systèmes, S. A. (Vélizy, France).
+
+This software is available to:
+
+• Students and educators at schools that meet certain requirements
+
+• Students and educators who have purchased selected textbooks and robotic kits that are provided with the SDK download offer card
+
+• Students who participate in design competitions where the SolidWorks SDK is offered SolidWorks student products may only be used by students and educators on their own computers.
+
+Intended uses include completing homework assignments, student design projects, preparing course materials, learning more about SolidWorks, and other educational purposes.
+
+
+The "Vendor's Friendly Reminder" Summary:
+
+• SOLIDWORKS Education software including: Education Edition (network, license borrow, and stand-alone); Student Premium; and Student Standard is meant for classroom and degree nonfunded projects, as well as campus research group non-funded projects.
+
+• All funded projects require SOLIDWORKS Academic Research software.
+
+• SOLIDWORKS Student Edition, available online, is not meant for: classroom computer, funded research project, or commercial use.
