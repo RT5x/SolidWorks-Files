@@ -1,0 +1,19 @@
+https://help.solidworks.com/2020/English/SolidWorks/install_guide/t_removing_installation.htm
+
+-----------
+
+If there are issue that prevent the uninstall:
+Try a complete uninstallation of SOLIDWORKS using the Microsoft fixit tool.
+
+Download the Microsoft fixit tool from this link:
+https://support.microsoft.com/en-us/help/17588/fix-problems-that-block-programs-from-being-installed-or-removed
+
+Run the downloaded tool and click Next
+Click Uninstalling
+In product selection select ' SOLIDWORKS (version) ' and click Next to follow uninstallation process
+Repeat the process until all the versions of SOLIDWORKS and all the SOLIDWORKS products are uninstalled
+
+
+Optional 3rd Party option / "how to" via YouTube.
+To UNINSTALL a previous version of Solidworks:
+https://www.youtube.com/watch?v=HiVYESrv9H8
