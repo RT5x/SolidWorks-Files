@@ -17,3 +17,4 @@ Repeat the process until all the versions of SOLIDWORKS and all the SOLIDWORKS p
 Optional 3rd Party option / "how to" via YouTube.
 To UNINSTALL a previous version of Solidworks:
 https://www.youtube.com/watch?v=HiVYESrv9H8
+(Note: only for version SW SPD 2020 or later)
